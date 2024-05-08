@@ -1,0 +1,10 @@
+C:\Users\eriks\source\repos\register_Ca\register_Ca\bin\Debug\register_Ca.exe.config
+C:\Users\eriks\source\repos\register_Ca\register_Ca\bin\Debug\register_Ca.exe
+C:\Users\eriks\source\repos\register_Ca\register_Ca\bin\Debug\register_Ca.pdb
+C:\Users\eriks\source\repos\register_Ca\register_Ca\obj\Debug\register_Ca.csproj.AssemblyReference.cache
+C:\Users\eriks\source\repos\register_Ca\register_Ca\obj\Debug\register_Ca.Form1.resources
+C:\Users\eriks\source\repos\register_Ca\register_Ca\obj\Debug\register_Ca.Properties.Resources.resources
+C:\Users\eriks\source\repos\register_Ca\register_Ca\obj\Debug\register_Ca.csproj.GenerateResource.cache
+C:\Users\eriks\source\repos\register_Ca\register_Ca\obj\Debug\register_Ca.csproj.CoreCompileInputs.cache
+C:\Users\eriks\source\repos\register_Ca\register_Ca\obj\Debug\register_Ca.exe
+C:\Users\eriks\source\repos\register_Ca\register_Ca\obj\Debug\register_Ca.pdb
